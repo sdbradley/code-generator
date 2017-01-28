@@ -1,0 +1,5 @@
+C:\code\programming\CodeGenerator\CodeGenerator.StoredProcedures\bin\Debug\CodeGenerator.StoredProcedures.dll
+C:\code\programming\CodeGenerator\CodeGenerator.StoredProcedures\bin\Debug\CodeGenerator.StoredProcedures.pdb
+C:\code\programming\CodeGenerator\CodeGenerator.StoredProcedures\obj\Debug\ResolveAssemblyReference.cache
+C:\code\programming\CodeGenerator\CodeGenerator.StoredProcedures\obj\Debug\CodeGenerator.StoredProcedures.dll
+C:\code\programming\CodeGenerator\CodeGenerator.StoredProcedures\obj\Debug\CodeGenerator.StoredProcedures.pdb
